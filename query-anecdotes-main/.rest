@@ -1,0 +1,9 @@
+###
+
+POST http://localhost:3001/anecdotes 
+content-type: application/json
+
+{
+    "content": "gsdfa", 
+    "votes":0
+}
